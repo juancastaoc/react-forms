@@ -1,0 +1,30 @@
+.product-table-container{
+    width: 20%;
+    margin-left: 20px;
+    min-height: 200px;
+    border:1px solid grey ;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    background-color: lightgray 
+          
+}
+
+.products-form{
+    color: aliceblue;
+    background-color: blue;
+    padding: auto;
+    border-radius: 20px;
+    width: 250px;
+ 
+    
+    
+    
+    
+    
+    display: inline-flex;
+    flex-direction:arroy;
+    justify-content:center;
+    
+}
